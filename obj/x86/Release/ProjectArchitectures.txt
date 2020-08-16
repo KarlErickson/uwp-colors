@@ -1,0 +1,1 @@
+D:\source\repos\UwpColors\UwpColors.csproj;x86

@@ -1,0 +1,7 @@
+﻿"D:\source\repos\UwpColors\obj\x86\Release\ilc\in\UwpColors.exe"
+/Lib:"D:\source\repos\UwpColors\obj\x86\Release\ilc\in"
+/Lib:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.compiler\2.2.8-rel-28605-00\tools\x86\ilc\lib\Private"
+/WinMD:"D:\source\repos\UwpColors\obj\x86\Release\ilc\in\WinMetadata\Windows.winmd"
+/VSTelemetrySessionSettings:"{"IsOptedIn":true,"HostName":"Dev14","AppInsightsInstrumentationKey":"f144292e-e3b2-4011-ac90-20e5c03fbce5","AsimovInstrumentationKey":"AIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70","AppId":1001,"UserId":"d4753cdc-c7b3-49f0-83c4-28e8ffaa65fb","Id":"ebb49a9c-1af4-49d4-b8a6-3c3f1cfdf1d2","ProcessStartTime":637331478564922528}"
+/RdXmlPath:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\2.2.8-rel-28605-00\tools\LibraryXML"
+/RunOnlyPreDR
